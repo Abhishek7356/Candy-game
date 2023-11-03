@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Candy-game/static/css/main.c50fb86a.css",
+    "main.js": "/Candy-game/static/js/main.1650e035.js",
+    "static/media/brownCandy.png": "/Candy-game/static/media/brownCandy.a0c536968710f8acbd82.png",
+    "static/media/greenCandy.png": "/Candy-game/static/media/greenCandy.68cf642bed5020b3927b.png",
+    "static/media/redCandy.png": "/Candy-game/static/media/redCandy.9308045527866a9306f3.png",
+    "static/media/blueCandy.png": "/Candy-game/static/media/blueCandy.098189ba26b89655c7a1.png",
+    "static/media/Purplecandy.webp": "/Candy-game/static/media/Purplecandy.07725406115298fe9f5d.webp",
+    "index.html": "/Candy-game/index.html",
+    "main.c50fb86a.css.map": "/Candy-game/static/css/main.c50fb86a.css.map",
+    "main.1650e035.js.map": "/Candy-game/static/js/main.1650e035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50fb86a.css",
+    "static/js/main.1650e035.js"
+  ]
+}
